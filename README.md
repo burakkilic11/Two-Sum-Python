@@ -1,5 +1,5 @@
 # Two Sum Python
-LeetCode Two Sum O(n²)
+LeetCode Two Sum O(n²) and O(n)
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
